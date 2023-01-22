@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 Me name is Daphne Teh & I am a data scientist. 
 
-<!--
-**daphteh/daphteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github! 
+---
 
-Here are some ideas to get you started:
+:monocle_face: Curious person who loves learning
+:mortar_board: PhD in Management
+:woman_teacher: Research track professor with expertise in CSR & governance (fraud)
+🌱 Data Science Bootcamp at Constructor Learning in Zurich (formerly SIT Academy)
+:briefcase: Former Strategy Consultant
+:mailbox: Contact me at [LinkedIn](https://www.linkedin.com/in/daphne-teh-31274310/)
+:surfing_woman: :hiking_boot: :book: Fun facts: I love surfing, hiking & reading biographies 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Science Projects
+---
+
