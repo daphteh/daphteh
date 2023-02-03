@@ -6,7 +6,7 @@ Welcome to my Github!
 - :monocle_face: Curious person who loves learning
 - :mortar_board: PhD in Management
 - :woman_teacher: Research track professor with expertise in sustainability & governance (fraud)
-- 🌱 Data Science Bootcamp at Constructor Learning in Zurich (formerly SIT Academy)
+- 🌱 Data Scientist trained at Constructor Learning in Zurich (formerly Propulsion Academy)
 - :briefcase: Former Strategy Consultant
 - :mailbox: Contact me at [LinkedIn](https://www.linkedin.com/in/daphne-teh-31274310/)
 - :surfing_woman: :hiking_boot: :book: Fun facts: I love surfing, hiking & reading biographies 
