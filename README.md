@@ -16,6 +16,7 @@ Welcome to my Github!
 
 - Data analysis, statistics and visualization: [Corporate board connections and earnings restatements](https://github.com/daphteh/Effect-of-board-connections-on-corporate-governance)
 - Network analysis and visualization: [Director networks](https://github.com/daphteh/Fortune_500_Director_Board_Network)
-- Machine learning & clustering: [Customer segmentation](https://github.com/daphteh/Customer_Segmentation_CreditCard_Company)
-- Natural language processing: [Sarcasm detector](https://github.com/daphteh/Sarcasm_Detector)
+- Machine Learning & clustering: [Customer segmentation](https://github.com/daphteh/Customer_Segmentation_CreditCard_Company)
+- Natural Language Processing (NLP): [Sarcasm detector](https://github.com/daphteh/Sarcasm_Detector)
+- Natural Language Processing (NLP), Topic Modeling: YouTube Videos about Surfing
 - A/B testing: [Marketing effectivenes](https://github.com/daphteh/AB_Testing_Effectiveness_of_Marketing)
