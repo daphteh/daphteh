@@ -18,5 +18,6 @@ Welcome to my Github!
 - Network analysis and visualization: [Director networks](https://github.com/daphteh/Fortune_500_Director_Board_Network)
 - Machine Learning & clustering: [Customer segmentation](https://github.com/daphteh/Customer_Segmentation_CreditCard_Company)
 - Natural Language Processing (NLP): [Sarcasm detector](https://github.com/daphteh/Sarcasm_Detector)
-- Natural Language Processing (NLP), Topic Modeling: YouTube Videos about Surfing
+- Natural Language Processing (NLP), Topic Modeling: [YouTube Videos about Surfing](https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube)
 - A/B testing: [Marketing effectivenes](https://github.com/daphteh/AB_Testing_Effectiveness_of_Marketing)
+- Scraping data: [Scraping Google Scholar and YouTube](https://github.com/daphteh/Data_Scrapper_Youtube_GoogleScholar)
