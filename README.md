@@ -20,4 +20,4 @@ Welcome to my Github!
 - Natural Language Processing (NLP): [Sarcasm detector](https://github.com/daphteh/Sarcasm_Detector)
 - Natural Language Processing (NLP), Topic Modeling: [YouTube Videos about Surfing](https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube)
 - A/B testing: [Marketing effectivenes](https://github.com/daphteh/AB_Testing_Effectiveness_of_Marketing)
-- Data Scraping, cleaning and EDA: [YouTube Videos about Surfing](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos)
+- Data Scraping, cleaning and EDA: [Surfing YouTube Channels](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos)
