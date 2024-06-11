@@ -14,7 +14,7 @@ Welcome to my Github!
 
 
 # Skills & Projects
-- I work with all data types from structured to unstructured data (also able to analyse text and images)
+I work with all data types from structured to unstructured data (also able to analyse text and images)
 
 - Data analysis, statistics and visualization: [Corporate board connections and earnings restatements](https://github.com/daphteh/Effect-of-board-connections-on-corporate-governance)
 - Network analysis and visualization: [Director networks](https://github.com/daphteh/Fortune_500_Director_Board_Network)
