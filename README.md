@@ -6,11 +6,11 @@ Welcome to my Github!
 - :monocle_face: Curious person who loves learning
 - :mortar_board: PhD in Management
 - :woman_teacher: Professor of Strategy and Data Analytics
-- 🌱 Data Scientist certified at Constructor Learning in Zurich (formerly Propulsion Academy)
+- 🌱 Data Scientist certified in Zurich (formerly Propulsion Academy)
 - :briefcase: Former Management Consultant at Accenture
 - :mailbox: Contact me at [LinkedIn](https://www.linkedin.com/in/daphne-teh-31274310/)
-- :surfing_woman: :hiking_boot: :book: Fun facts: I love surfing, hiking, baking & reading biographies
-- 🗺️ Lived and worked in 4 continents 
+- :surfing_woman: :book: Fun facts: I LOVE surfing, baking & reading biographies
+- 🇸🇬🗺️ Singaporean who lived and worked in 4 continents 
 
 
 # Skills & Projects
