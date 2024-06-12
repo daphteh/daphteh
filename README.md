@@ -14,7 +14,7 @@ Welcome to my Github!
 
 
 # Skills & Projects
-I work with all data types from structured to unstructured data (also able to analyse text and images)
+I work with all data types from structured to unstructured data (including text and images)
 
 - Automating data collection, analysis and visualisation: developed the prototype for this [app](https://www.six-group.com/en/products-services/banking-services/data-ai/payment-enrichment.html) for Six (Swiss Financial Institution)
 - Data analysis, statistics and visualization: [Corporate board connections and earnings restatements](https://github.com/daphteh/Effect-of-board-connections-on-corporate-governance)
