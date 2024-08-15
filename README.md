@@ -16,8 +16,6 @@ Welcome to my Github!
 # Skills & Projects
 I work with all data types from structured to unstructured data (including text and images)
 
-- Automating data collection, analysis and visualisation: developed the prototype for this [app](https://www.six-group.com/en/products-services/banking-services/data-ai/payment-enrichment.html) for Six (Swiss Financial Institution)
-- Data analysis, statistics and visualization: [Corporate board connections and earnings restatements](https://github.com/daphteh/Effect-of-board-connections-on-corporate-governance)
 - Network analysis and visualization: [Director networks](https://github.com/daphteh/Fortune_500_Director_Board_Network)
 - Machine Learning & clustering: [Customer segmentation](https://github.com/daphteh/Customer_Segmentation_CreditCard_Company)
 - Natural Language Processing (NLP): [Sarcasm detector](https://github.com/daphteh/Sarcasm_Detector)
@@ -28,4 +26,5 @@ I work with all data types from structured to unstructured data (including text 
 | Project Title  | Business Purpose | Data Science Skills | 
 | ------------- | ------------- | ------------- | 
 | Prototype of an [App](https://www.six-group.com/en/products-services/banking-services/data-ai/payment-enrichment.html) for Six (Swiss Financial Institution) | Automating data extraction from financial transactions and developing insights  | Data extraction, mining, analysis and visualization  |
-| Content Cell  | Content Cell  | Content Cell  |
+| [Corporate board connections and earnings restatements](https://github.com/daphteh/Effect-of-board-connections-on-corporate-governance)  | Understanding how directors' nonprofit affiliations affect misconduct  | Statistics, Data Analytics and Visualizations  |
+| [Director networks](https://github.com/daphteh/Fortune_500_Director_Board_Network)  | Understanding how directors' board affiliations affect connections among Fortune 500 companies  | Network Analysis and Visualization  |
