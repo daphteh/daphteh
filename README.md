@@ -23,3 +23,9 @@ I work with all data types from structured to unstructured data (including text 
 - Natural Language Processing (NLP): [Sarcasm detector](https://github.com/daphteh/Sarcasm_Detector)
 - A/B testing: [Marketing effectivenes](https://github.com/daphteh/AB_Testing_Effectiveness_of_Marketing)
 - Data Scraping, cleaning and EDA: [Surfing YouTube Channels](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos)
+
+
+| Project Title  | Business Purpose | Data Science Skills | 
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
