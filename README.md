@@ -27,5 +27,5 @@ I work with all data types from structured to unstructured data (including text 
 
 | Project Title  | Business Purpose | Data Science Skills | 
 | ------------- | ------------- | ------------- | 
-| Content Cell  | Content Cell  | Content Cell  |
+| Prototype of an [App](https://www.six-group.com/en/products-services/banking-services/data-ai/payment-enrichment.html) for Six (Swiss Financial Institution) | Automating data extraction from financial transactions and developing insights  | Data extraction, mining, analysis and visualization  |
 | Content Cell  | Content Cell  | Content Cell  |
