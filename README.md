@@ -26,6 +26,6 @@ I work with all data types from structured to unstructured data (including text 
 
 
 | Project Title  | Business Purpose | Data Science Skills | 
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ------------- | ------------- | ------------- | 
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
