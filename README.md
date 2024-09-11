@@ -16,6 +16,15 @@ Welcome to my Github!
 # Skills & Projects
 I work with all data types from structured to unstructured data (including text and images)
 
+##Performance of YouTube channels on surfing##
+The purpose of this project is to establish an understanding of how different surf channels behave and perform and to be able provide useful insights to improve performance of specific channels. Yielding reports such as [this] (https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/a621dd743177ec2882fe509c1c138b4a9298a6c6/Report_Images/KB_final.pdf)
+There are several stages to this project including:
+1. Data scrapping and cleaning
+2. Exploratory data analysis
+3. Data engineering via extracting location and pro surfer names leveraging OpenAI's API
+4. Data engineering via topic modeling
+
+
 | Project Title  | Business Purpose | Data Science Skills | 
 | ------------- | ------------- | ------------- | 
 | Prototype of an [App](https://www.six-group.com/en/products-services/banking-services/data-ai/payment-enrichment.html) for Six (Swiss Financial Institution) | Automating data extraction from financial transactions and developing insights  | Data extraction, mining, analysis and visualization  |
