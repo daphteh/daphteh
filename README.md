@@ -16,18 +16,19 @@ Welcome to my Github!
 # Skills & Projects
 I work with all data types from structured to unstructured data (including text and images)
 
-## Performance of YouTube channels on surfing
+
+
+
+### Performance of YouTube channels on surfing :surfer:
 The purpose of this project is to establish an understanding of how different surf channels behave and perform and to be able provide useful insights to improve performance of specific channels. Yielding reports such as [this](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/a621dd743177ec2882fe509c1c138b4a9298a6c6/Report_Images/KB_final.pdf)
 There are several stages to this project including:
 1. [Data scrapping and cleaning](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/tree/main)
 2. [Exploratory data analysis](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/tree/main)
 3. [Data engineering via extracting location and pro surfer names leveraging OpenAI's API](https://github.com/daphteh/Extracting-locations-and-surfer-names-from-YouTube-Titles-with-OpenAI)
 4. [Data engineering via topic modeling](https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube)
-5. Engaging in channel specific analysis and comparing it to other channels belonging to the same category (pro-surfer, big brand, training...)
+5. Engaging in analysis specific to the channel of interest taking into account its category and making recommendations
 
-
-
-##Additional projects are listed below
+### Additional projects are listed below
 
 | Project Title  | Business Purpose | Data Science Skills | 
 | ------------- | ------------- | ------------- | 
