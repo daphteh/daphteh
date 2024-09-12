@@ -20,7 +20,7 @@ I work with all data types from structured to unstructured data (including text 
 
 
 ### Performance of YouTube channels on surfing :surfer:
-The purpose of this project is to establish an understanding of how different surf channels behave and perform and to be able provide useful insights to improve performance of specific channels. Yielding reports such as [this](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/a621dd743177ec2882fe509c1c138b4a9298a6c6/Report_Images/KB_final.pdf)
+The purpose of this project is to establish an understanding of how different surf channels behave and perform and to be able provide useful insights to improve performance of specific channels. Producing reports such as [this](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/a621dd743177ec2882fe509c1c138b4a9298a6c6/Report_Images/KB_final.pdf)
 There are several stages to this project including:
 1. [Data scrapping and cleaning](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/tree/main)
 2. [Exploratory data analysis](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/tree/main)
