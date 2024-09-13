@@ -1,8 +1,8 @@
 # Hi there 👋 Me name is Daphne Teh & I am a data scientist.
-
+<br>
 Welcome to my Github! 
 
-
+<br>
 - :nerd_face: Certified Data Scientist offering Data Science and Business Consulting services
 - :monocle_face: Curious person who loves learning
 - :mortar_board: PhD in Management
@@ -14,11 +14,11 @@ Welcome to my Github!
 
 
 # Skills & Projects
-
+<br>
 I work with all data types from structured to unstructured data (including text and images)
 
 ### Performance of YouTube channels on surfing :surfer:
-
+<br>
 This project serves the purpose of providing insights on the factors that drives views for different YouTube channels about surfing with the ultimate aim of producing channel-specific reports such as [this](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/a621dd743177ec2882fe509c1c138b4a9298a6c6/Report_Images/KB_final.pdf). 
 
 There are several stages and data science skills I leveraged to fulfill this project including:
