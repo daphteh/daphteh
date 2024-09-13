@@ -1,5 +1,5 @@
 ### Hi there 👋 Me name is Daphne Teh & I am a data scientist. 
-
+<br>
 Welcome to my Github! 
 ---
 
@@ -12,14 +12,14 @@ Welcome to my Github!
 - :surfing_woman: :book: Fun facts: I LOVE surfing, baking & reading biographies
 - 🇸🇬🗺️ Singaporean who lived and worked in 4 continents 
 
-
+<br>
+<br>
 # Skills & Projects
 
 I work with all data types from structured to unstructured data (including text and images)
-
-
-
-
+<br>
+<br>
+<br>
 ### Performance of YouTube channels on surfing :surfer:
 
 This project serves the purpose of providing insights on the factors that drives views for different YouTube channels about surfing with the ultimate aim of producing channel-specific reports such as [this](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/a621dd743177ec2882fe509c1c138b4a9298a6c6/Report_Images/KB_final.pdf). 
@@ -30,10 +30,10 @@ There are several stages and data science skills I leveraged to fulfill this pro
 3. [Data engineering via extracting location and pro surfer names leveraging OpenAI's API](https://github.com/daphteh/Extracting-locations-and-surfer-names-from-YouTube-Titles-with-OpenAI)
 4. [Data engineering via topic modeling](https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube)
 5. Engaging in analysis specific to the channel of interest taking into account its category and making recommendations
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ### Additional projects are listed below
 
 | Project Title  | Business Purpose | Data Science Skills | 
