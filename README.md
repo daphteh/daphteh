@@ -1,5 +1,5 @@
 # Hi there 👋 My name is Daphne Teh & I am a data scientist.
-About me
+Highlights about me
 
 - :nerd_face: Certified Data Scientist offering Data Science and Business Consulting services
 - :monocle_face: Curious person who loves learning
