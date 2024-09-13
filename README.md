@@ -1,7 +1,6 @@
-### Hi there 👋 Me name is Daphne Teh & I am a data scientist. 
+# Hi there 👋 Me name is Daphne Teh & I am a data scientist.
 <br>
 Welcome to my Github! 
----
 
 - :nerd_face: Certified Data Scientist offering Data Science and Business Consulting services
 - :monocle_face: Curious person who loves learning
@@ -15,7 +14,7 @@ Welcome to my Github!
 <br>
 <br>
 # Skills & Projects
-
+<br>
 I work with all data types from structured to unstructured data (including text and images)
 <br>
 <br>
@@ -30,7 +29,6 @@ There are several stages and data science skills I leveraged to fulfill this pro
 3. [Data engineering via extracting location and pro surfer names leveraging OpenAI's API](https://github.com/daphteh/Extracting-locations-and-surfer-names-from-YouTube-Titles-with-OpenAI)
 4. [Data engineering via topic modeling](https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube)
 5. Engaging in analysis specific to the channel of interest taking into account its category and making recommendations
-<br>
 <br>
 <br>
 <br>
