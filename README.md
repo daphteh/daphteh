@@ -13,12 +13,10 @@ Welcome to my Github!
 
 
 # Skills & Projects
-<br>
 I work with all data types from structured to unstructured data (including text and images)
-
-### Performance of YouTube channels on surfing :surfer:
 <br>
-
+<br>
+### Performance of YouTube channels on surfing :surfer:
 This project serves the purpose of providing insights on the factors that drives views for different YouTube channels about surfing with the ultimate aim of producing channel-specific reports such as [this](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/a621dd743177ec2882fe509c1c138b4a9298a6c6/Report_Images/KB_final.pdf). 
 
 There are several stages and data science skills I leveraged to fulfill this project including:
@@ -27,11 +25,10 @@ There are several stages and data science skills I leveraged to fulfill this pro
 3. [Data engineering via extracting location and pro surfer names leveraging OpenAI's API](https://github.com/daphteh/Extracting-locations-and-surfer-names-from-YouTube-Titles-with-OpenAI)
 4. [Data engineering via topic modeling](https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube)
 5. Engaging in analysis specific to the channel of interest taking into account its category and making recommendations
-
-
+<br>
+<br>
 
 ### Additional projects are listed below
-<br>
 | Project Title  | Business Purpose | Data Science Skills | 
 | ------------- | ------------- | ------------- | 
 | Prototype of an [App](https://www.six-group.com/en/products-services/banking-services/data-ai/payment-enrichment.html) for Six (Swiss Financial Institution) | Automating data extraction from financial transactions and developing insights  | Data extraction, mining, analysis and visualization  |
