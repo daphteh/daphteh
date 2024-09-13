@@ -34,8 +34,6 @@ There are several stages and data science skills I leveraged to fulfill this pro
 <br>
 <br>
 ### Additional projects are listed below
-<br>
-<br>
 | Project Title  | Business Purpose | Data Science Skills | 
 | ------------- | ------------- | ------------- | 
 | Prototype of an [App](https://www.six-group.com/en/products-services/banking-services/data-ai/payment-enrichment.html) for Six (Swiss Financial Institution) | Automating data extraction from financial transactions and developing insights  | Data extraction, mining, analysis and visualization  |
