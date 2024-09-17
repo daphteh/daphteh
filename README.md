@@ -1,5 +1,5 @@
 # Hi there 👋 My name is Daphne Teh & I am a data scientist.
-Highlights about me
+Highlights
 
 - :nerd_face: Certified Data Scientist offering Data Science and Business Consulting services
 - :monocle_face: Curious person who loves learning
@@ -12,10 +12,7 @@ Highlights about me
 
 
 # Skills & Projects
-I work with all data types from structured to unstructured data (including text and images)
-<br>
-<br>
-## Project to demonstrate how data science can be used to address business needs
+## Data Science Project addressing business needs
 **Performance of YouTube channels on surfing :surfer:**
 <br>
 This project provides insights on what drives views for different YouTube channels about surfing with the ultimate aim of producing channel-specific reports such as [this](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/a621dd743177ec2882fe509c1c138b4a9298a6c6/Report_Images/KB_final.pdf). 
@@ -28,11 +25,12 @@ There are several stages and data science skills I leveraged to fulfill this pro
 3. [Data engineering via extracting location and pro surfer names leveraging OpenAI's API](https://github.com/daphteh/Extracting-locations-and-surfer-names-from-YouTube-Titles-with-OpenAI)
 4. [Data engineering via topic modeling](https://github.com/daphteh/Topic-Modeling-Surfing-Videos-on-YouTube)
 5. Engaging in analysis specific to the channel of interest taking into account its category and making recommendations
-<br>
-<br>
 
-**Additional projects are listed below**
-| Project Title  | Business Purpose | Data Science Skills | 
+
+## Additional projects
+
+Given that I work with all data types from structured to unstructured data (including text and images), below are samples of projects that I have worked on. 
+| Project Title  | Goal | Data Science Skills | 
 | ------------- | ------------- | ------------- | 
 | Prototype of an [App](https://www.six-group.com/en/products-services/banking-services/data-ai/payment-enrichment.html) for Six (Swiss Financial Institution) | Automating data extraction from financial transactions and developing insights  | Data extraction, mining, analysis and visualization  |
 | [Corporate board connections and earnings restatements](https://github.com/daphteh/Effect-of-board-connections-on-corporate-governance)  | Understanding how directors' nonprofit affiliations affect misconduct  | Statistics, Data Analytics and Visualizations  |
