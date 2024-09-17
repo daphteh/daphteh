@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Daphne Teh & I am a data scientist.
+# Hi there 👋 My name is Daphne Teh & I am a Data Scientist.
 Highlights
 
 - :nerd_face: Certified Data Scientist offering Data Science and Business Consulting services
@@ -12,7 +12,7 @@ Highlights
 
 
 # Skills & Projects
-## Data Science Project addressing business needs
+## Data Science Project addressing Business Needs
 **Performance of YouTube channels on surfing :surfer:**
 <br>
 This project provides insights on what drives views for different YouTube channels about surfing with the ultimate aim of producing channel-specific reports such as [this](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/a621dd743177ec2882fe509c1c138b4a9298a6c6/Report_Images/KB_final.pdf). 
