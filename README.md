@@ -8,7 +8,7 @@ Highlights
 - :briefcase: Former Management Consultant at Accenture
 - :mailbox: Contact me at [LinkedIn](https://www.linkedin.com/in/daphne-teh-31274310/)
 - :surfing_woman: :book: Fun facts: I LOVE surfing, baking & reading biographies
-- 🇸🇬🗺️ Singaporean who lived and worked in 4 continents 
+- 🗺️ Lived and worked in 4 continents 
 
 
 # Skills & Projects
