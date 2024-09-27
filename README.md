@@ -3,7 +3,7 @@ Highlights
 
 - :nerd_face: Certified Data Scientist offering Data Science and Business Consulting services
 - :monocle_face: Curious person who loves learning
-- :mortar_board: PhD in Management
+- :mortar_board: PhD in Computational Social Science
 - :woman_teacher: Former Professor of Strategy and Data Analytics
 - :briefcase: Former Management Consultant at Accenture
 - :mailbox: Contact me at [LinkedIn](https://www.linkedin.com/in/daphne-teh-31274310/)
