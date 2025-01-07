@@ -15,7 +15,7 @@ Highlights
 ## Data Science Project addressing Business Needs
 **Performance of YouTube channels on surfing :surfer:**
 <br>
-This project provides insights on what drives views for different YouTube channels about surfing with the ultimate aim of producing channel-specific reports such as [this](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/a621dd743177ec2882fe509c1c138b4a9298a6c6/Report_Images/KB_final.pdf). 
+This project provides insights on what drives views for different YouTube channels about surfing with the ultimate aim of producing channel-specific reports such as [this](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/blob/247d391e393af650067fab783d5b0f01e3689c19/Report_Images/KB_final_v1.pdf). 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aEkPRlwPXKA/sddefault.jpg)](https://www.youtube.com/watch?v=aEkPRlwPXKA&t=1818s&pp=ygUeZHJvcHBpbmcgaW4gcG9kY2FzdCBEYXBobmUgVGVo)
 
